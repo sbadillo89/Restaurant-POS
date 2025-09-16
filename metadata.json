@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant POS",
+  "description": "A mobile-first application for restaurant management, including products, orders, expenses, and daily reports.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
